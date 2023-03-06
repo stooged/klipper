@@ -1,5 +1,3 @@
-# [ℹ️ New version available for testing](https://github.com/Desuuuu/klipper/discussions/74)
-
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
@@ -29,10 +27,10 @@ The touchscreen feature is only available for AVR/LPC176X/STM32/SAMD
 micro-controllers and it needs to be configured before compilation.
 
 The touchscreen firmware compatible with this fork is available in
-[this repository](https://github.com/Desuuuu/DGUS-reloaded-Klipper).
+[this repository](https://github.com/stooged/DGUS-reloaded-Klipper).
 
 Example configurations are available in
-[this repository](https://github.com/Desuuuu/DGUS-reloaded-Klipper-config).
+[this repository](https://github.com/stooged/DGUS-reloaded-Klipper-config).
 
 Available configuration options are documented in the
 [sample-t5uid1.cfg](/config/sample-t5uid1.cfg) file.
